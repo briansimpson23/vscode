@@ -1,9 +1,15 @@
 Visual Studio Code
 ==============
-This is the start of the common settings and tools that we would like the teams to follow.  This should also be considered a "getting started" guide to help with the basic setup.
+This is the start of the common settings and tools that work for me for the work and I do and the technologies in which I am interested. This should also be considered a "getting started" guide to help with the basic setup.
 
-Download
+You can download Visual Studio Code here:
 https://code.visualstudio.com/
+
+Learn how to use Visual Studio Code
+------------------------------------
+This is a good introduction to Visual Studio Code.
+https://www.udemy.com/course/visual-studio-code-tutorial
+
 
 Settings
 ---------------
