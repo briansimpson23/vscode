@@ -25,52 +25,52 @@ Editor: Tab Size
 
 Extensions
 -------------
-Bracket Pair Colorizer 2  
+**Bracket Pair Colorizer 2**  
 https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
-Chef Infra Extensions for Visual Studio Code  
+**Chef Infra Extensions for Visual Studio Code**  
 https://marketplace.visualstudio.com/items?itemName=chef-software.Chef
 
-Docker  
+**Docker**  
 https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
 
-Git Last Commit Message (GLCM)  
+**Git Last Commit Message (GLCM)**  
 https://marketplace.visualstudio.com/items?itemName=JanBn.git-last-commit-message
 
-GitLens — Git supercharged  
+**GitLens — Git supercharged**  
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
-Go  
+**Go**  
 https://marketplace.visualstudio.com/items?itemName=golang.Go
 
-Jira and BitBucket (Official)  
+**Jira and BitBucket (Official)**  
 https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode
 
-Python  
+**Python**  
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-Pylance  
+**Pylance**  
 https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
 
-Ruby  
+**Ruby**  
 https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 
-Ruby Solargraph  
+**Ruby Solargraph**  
 https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby
 
-Scratchpads  
+**Scratchpads**  
 https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads
 
-Settings Sync  
+**Settings Sync**  
 https://code.visualstudio.com/docs/editor/settings-sync
 
-Todo Tree  
+**Todo Tree**  
 https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 
-VSCode Ruby  
+**VSCode Ruby**  
 https://marketplace.visualstudio.com/items?itemName=wingrunr21.vscode-ruby
 
-YAML  
+**YAML**  
 https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
 
 
