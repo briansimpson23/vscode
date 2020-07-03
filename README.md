@@ -2,7 +2,7 @@ Visual Studio Code
 ==============
 This is the start of the common settings and tools that work for me for the work I do and the technologies in which I am interested. This could also be considered a "getting started" guide to help with the basic setup.
 
-**You can download Visual Studio Code here:**
+**You can download Visual Studio Code here:**  
 https://code.visualstudio.com/
 
 Learn how to use Visual Studio Code
